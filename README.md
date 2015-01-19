@@ -1,7 +1,7 @@
 #OWIN OAuth Provider for TradeMe
 
 ## Installation
-Install the NuGet package.
+Install the [NuGet package](https://www.nuget.org/packages/Hazzik.Owin.Security.TradeMe/).
 
 ```
 PM> Install-Package Hazzik.Owin.Security.TradeMe
