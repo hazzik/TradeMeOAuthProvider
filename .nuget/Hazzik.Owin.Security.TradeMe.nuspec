@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hazzik.Owin.Security.TradeMe</id>
+    <version>1.0.0</version>
+    <authors>Alexander Zaytsev</authors>
+    <owners>Alexander Zaytsev</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/hazzik/TradeMeOAuthProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The TradeMe OAuth provider OWIN middleware</description>
+    <summary>
+    </summary>
+    <releaseNotes>
+    </releaseNotes>
+    <copyright>Copyright 2015 Alexander Zaytsev</copyright>
+    <tags>owin katana oauth TradeMe</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin.Security" version="2.1.0" />
+      <dependency id="Newtonsoft.Json" version="6.0.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\Owin.Security.TradeMe\bin\Release\Hazzik.Owin.Security.TradeMe.dll" target="lib\net45" />
+  </files>
+</package>
